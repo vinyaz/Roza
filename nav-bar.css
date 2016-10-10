@@ -1,21 +1,34 @@
 
 
+
+/*navbar in the middle?
+check clear!
+chech block!
+check psition!*/
+
 ul {
-	min-width: 100%;
-	height: 50px;
-	padding-left: 350px;
     list-style-type: none;
-    /*background-color: #333333;*/
+    padding-top: 0px;
+}
+
+.nav-bar {
+	width: 750px;
+	margin: 0px auto;
+	padding-top: 30px;
+}
+
+.clear {
+	clear: both;
 }
 
 li a {
     display: block;
     color: #ffffff;
-    padding: 15px;
+    padding: 10px 15px 10px 15px;
     text-decoration: none;
     font-size: 15px;
-    float: left;
     border-left: 1px solid #FEDD19;
+    float: left;
 }
 
 li a:hover {
@@ -23,6 +36,6 @@ li a:hover {
     background-color: #FEDD19;
 }
 
-#rightborder {
-	border-right: 1px solid #FEDD19;
-}
+#leftborder {
+	border-left: 1px solid #000000;
+} 
