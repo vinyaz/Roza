@@ -1,0 +1,23 @@
+
+
+.cv {
+	float: right;
+	clear: both;
+	list-style: none;
+	margin-right: 70px;
+}
+
+.cv a {
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 12px;
+}
+
+.cv li {
+	padding-top: 5px;
+	display: block;
+}
+
+.cv li a:hover {
+	color: #FEDD19;
+}

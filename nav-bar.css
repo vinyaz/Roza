@@ -1,13 +1,12 @@
 
 
-/*position of the nav-bar!!*/
 
 .nav-bar {
 	list-style:none;
     margin:0;
     padding:0;
     position: absolute;
-    margin-left: 400px;
+    margin-left: 350px;
 }
 
 .nav-bar li {
@@ -20,7 +19,7 @@
     color: #ffffff;
     padding: 15px;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 20px;
     border-left: 1px solid #FEDD19;
 }
 
