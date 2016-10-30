@@ -1,0 +1,4 @@
+[1030/104231:ERROR:process_reader_win.cc(142)] SuspendThread: A hozzáférés megtagadva. (0x5)
+[1030/104231:ERROR:exception_snapshot_win.cc(87)] thread ID 1812 not found in process
+[1030/104231:WARNING:crash_report_exception_handler.cc(56)] ProcessSnapshotWin::Initialize failed
+[1030/104231:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: Kísérlet történt egy éppen kilépo folyamat elérésére.  (0xc000010a)
