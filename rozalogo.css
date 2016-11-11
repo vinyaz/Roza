@@ -1,7 +1,6 @@
 
 
 .rozalogo {
-	z-index: 1;
 	font-family: "Architects Daughter";
 	font-size: 20px;
 	height: 120px;
@@ -20,5 +19,6 @@
 	top: 10px;
 	text-align: center;
 }
+
 
 
