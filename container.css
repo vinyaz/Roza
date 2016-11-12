@@ -1,0 +1,11 @@
+
+/*miért nem megy az alja le?*/
+
+
+.container {
+	position: absolute;
+	margin-top: 60px;
+	margin-left: 200px;
+	width: auto;
+	min-height: 100%;
+}

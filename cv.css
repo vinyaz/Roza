@@ -1,23 +1,31 @@
 
 
 .cv {
-	float: right;
-	clear: both;
-	list-style: none;
-	margin-right: 70px;
-}
+    float: right;
+  }
 
-.cv a {
-	text-decoration: none;
-	color: #ffffff;
-	font-size: 12px;
+.cv ul {
+    padding-right: 30px;
+    margin-top: -45px;
 }
 
 .cv li {
-	padding-top: 5px;
-	display: block;
+    display: inline-block;
+    float: right;
+    margin-top: -8px;
+     color: #000000;
+     font-size: 11px;
 }
 
-.cv li a:hover {
-	color: #FEDD19;
+#cv {
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+.cv a {
+    padding: 0px;
+    text-decoration: none;
+    font-size: 11px;
+    color: #000000;
+    position: relative;
 }
