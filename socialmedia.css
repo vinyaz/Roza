@@ -1,9 +1,24 @@
 
-/*
+
 .socialmedia {
-	height: 30px;
-	width: 30px;
-	position: absolute;
+	float: right;
+}
+
+.socialmedia ul {
+	padding-right: 10px;
+	margin-top: -30px;
+}
+
+.socialmedia li {
+	padding: 2px;
 	display: inline-block;
-}*/
+	float: right;
+}
+
+.socialmedia img {
+	height: 23px;
+	width: 23px;
+}
+
+
 

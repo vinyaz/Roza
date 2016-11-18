@@ -1,0 +1,31 @@
+
+
+.links {
+	width: 600px;
+	margin-left: 400px;
+	margin-top: 30px;
+	position: absolute;
+}
+
+.links table td {
+	padding: 0px 10px 10px 10px;
+}
+
+.links td {
+	min-width: 125px;
+	vertical-align: text-top;
+}
+
+
+.links a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.links h3 {
+	margin-top: 0px;
+}
+
+span {
+	color: #FEDD19;
+}
