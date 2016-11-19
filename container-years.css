@@ -1,0 +1,8 @@
+
+
+
+.container {
+	position: absolute;
+	min-width: calc(100% - 200px);
+	min-height: 100%;
+}

@@ -1,18 +1,19 @@
 
 
 .links {
-	width: 600px;
+	width: 800px;
 	margin-left: 400px;
-	margin-top: 30px;
+	margin-top: 80px;
 	position: absolute;
 }
 
 .links table td {
-	padding: 0px 10px 10px 10px;
+	padding: 0px 25px 10px 10px;
+	/*border: 1px solid #FEDD19;*/
 }
 
 .links td {
-	min-width: 125px;
+	max-width: 150px;
 	vertical-align: text-top;
 }
 
@@ -26,6 +27,11 @@
 	margin-top: 0px;
 }
 
-span {
+.links span {
 	color: #FEDD19;
 }
+
+.links a:hover {
+	color: #FEDD19;
+}
+
