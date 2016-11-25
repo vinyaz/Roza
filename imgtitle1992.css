@@ -1,0 +1,33 @@
+
+
+.imgtitle92 {
+	width: auto;
+	height: auto;
+	color: #ffffff;
+	margin-left: 200px;
+	margin-top: 30px;
+	position: absolute;
+	line-height: 150%;
+
+}
+
+.title92 {
+	color: #FEDD19;
+}
+
+.container ul {
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 160px;
+	list-style: none;
+}
+
+.container li {
+	padding-bottom: 20px;
+}
+
+.container img {
+	border: 2px solid #FEDD19;
+	width: 400px;
+	height: auto;
+}

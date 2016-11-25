@@ -1,0 +1,58 @@
+
+
+.imgtitle93 {
+	width: auto;
+	height: auto;
+	color: #ffffff;
+	margin-left: 200px;
+	margin-top: 30px;
+	position: absolute;
+	line-height: 150%;
+
+}
+
+.title93 {
+	color: #FEDD19;
+}
+
+
+.text93 {
+	position: absolute;
+	width: auto;
+	height: auto;
+	margin-left: 200px;
+	margin-top: 180px;
+	text-align: justify;
+}
+
+.text93 img {
+	position: relative;
+	border: 2px solid #FEDD19;
+	width: 400px;
+	height: auto;
+}
+
+.text93 p {
+	position: relative;
+	margin-right: 50px;
+	margin-top: 30px;
+}
+
+.detail {
+	position: relative;
+	width: auto;
+	height: auto;
+	margin-top: 50px;
+	text-align: justify;
+}
+
+.titledetail {
+	color: #FEDD19;
+}
+
+.detail img {
+	margin-top: 30px;
+}
+
+
+
