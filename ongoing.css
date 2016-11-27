@@ -1,0 +1,35 @@
+
+
+.ongoing {
+	width: 800px;
+	margin-left: 400px;
+	margin-top: 80px;
+	position: absolute;
+}
+
+.ongoing table td {
+	padding: 0px 25px 10px 10px;
+}
+
+.ongoing td {
+	max-width: 150px;
+	vertical-align: text-top;
+}
+
+.ongoing a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.ongoing h3 {
+	margin-top: 0px;
+}
+
+.ongoing span {
+	color: #FEDD19;
+}
+
+.ongoing a:hover {
+	color: #FEDD19;
+}
+

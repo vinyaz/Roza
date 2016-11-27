@@ -1,0 +1,10 @@
+
+
+.content {
+	position: relative;
+	width: auto;
+	height: auto;
+	margin-left: 120px;
+	margin-top: 70px;
+	text-align: justify;
+}

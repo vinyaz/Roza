@@ -1,0 +1,31 @@
+
+
+.content {
+	position: relative;
+	width: auto;
+	height: auto;
+	margin-left: 120px;
+	margin-top: 70px;
+	text-align: justify;
+}
+
+.title {
+	color: #FEDD19;
+}
+
+.content p {
+	padding-bottom: 20px;
+}
+
+.content img {
+	display: block;
+	border: 2px solid #FEDD19;
+	width: 400px;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+
+
+
+
